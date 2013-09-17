@@ -2,7 +2,8 @@
 //  rect.cpp
 //  DtoF_lol
 //
-//  Xeno code by Charlie Whitney (www.github.com/cwhitney)
+//  Created by Keion Anthony Marefat on 9/1/13.
+//
 //
 
 #include "rect.h"
